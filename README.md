@@ -11,4 +11,4 @@
 2. cd appName
 3. npm run serve
 4. npm run build
-5.npm run serve -- --port 3000 (could be any port)
+5.npm run serve --port 3000 (could be any port)
