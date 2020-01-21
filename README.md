@@ -8,6 +8,9 @@ npm install -g @vue/cli
 vue --version
 #create a application
 1. vue create appName (Select Default and use npm)
+
 2. cd appName
+
 3. npm run serve
+
 4. npm run build
