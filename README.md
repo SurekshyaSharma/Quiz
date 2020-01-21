@@ -6,7 +6,7 @@
 2. npm uninstall -g vue-cli
 3. npm install -g @vue/cli
 4. vue --version
-#create a application
+# Create a application
 1. vue create appName (Select Default and use npm)
 2. cd appName
 3. npm run serve
