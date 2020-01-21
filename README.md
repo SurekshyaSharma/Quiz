@@ -1,8 +1,8 @@
 # Quiz
  Vuejs Application
 #Vue using CLI
-1.npm install -g@vue/cli 
-If there is old version uninstall and reinstall the vue-cli
+1.npm install -g@vue/cli (If there is old version uninstall and reinstall the vue-cli)
+
 npm uninstall -g vue-cli
 npm install -g @vue/cli
 vue --version
